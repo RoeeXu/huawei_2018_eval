@@ -14,7 +14,7 @@
 # 
 ##############################################################
 
-sh eval.sh | python mean.py
+./eval.sh | python mean.py
 
 
 
