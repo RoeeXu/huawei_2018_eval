@@ -109,8 +109,7 @@ if __name__ == '__main__':
         num = pred.get(fname, 0)
         r += num * aim_dic[fname]
     R = len(place) * (args['p_cpu'] if args['aim'] == 'CPU' else args['p_mem'])
-    score *= r / R
     score *= 100
-    print sys.argv[1] + '\t' + str(score)
+    print sys.argv[1] + '\t' + str(score) + '\t' + str(r / R * 100)
 
 # vim: set expandtab ts=4 sw=4 sts=4 tw=100
