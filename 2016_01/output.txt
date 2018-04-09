@@ -1,33 +1,35 @@
-189
-flavor3 5
-flavor2 30
-flavor1 20
-flavor7 2
-flavor6 3
-flavor5 24
+228
+flavor1 26
+flavor2 29
+flavor3 6
 flavor4 9
-flavor9 11
-flavor8 47
+flavor5 34
+flavor6 8
+flavor7 2
+flavor8 62
+flavor9 13
+flavor10 0
+flavor11 14
+flavor12 11
+flavor13 11
+flavor14 2
 flavor15 1
-flavor14 5
-flavor13 4
-flavor12 9
-flavor11 17
-flavor10 2
 
-15
-1 flavor15 1 flavor14 1 flavor13 1 flavor10 1
-2 flavor14 3 flavor11 1
-3 flavor14 1 flavor13 2 flavor12 1
-4 flavor7 1 flavor1 1 flavor13 1 flavor12 3 flavor10 1
-5 flavor1 1 flavor8 1 flavor7 1 flavor12 3 flavor11 1
-6 flavor1 1 flavor8 1 flavor5 1 flavor12 2 flavor11 3
-7 flavor11 7
-8 flavor9 2 flavor8 1 flavor1 1 flavor5 1 flavor11 5
-9 flavor9 7 flavor8 1 flavor1 1 flavor5 1
-10 flavor9 2 flavor8 11 flavor5 1
-11 flavor8 14
-12 flavor8 14
-13 flavor8 4 flavor6 3 flavor5 17
-14 flavor3 5 flavor2 27 flavor5 3 flavor4 9
-15 flavor2 3 flavor1 15
+17
+1 flavor1 7 flavor3 1 flavor5 3 flavor6 1 flavor8 4 flavor11 1 flavor13 1
+2 flavor1 5 flavor2 1 flavor3 2 flavor5 5 flavor6 1 flavor8 3 flavor12 1 flavor13 1
+3 flavor1 1 flavor2 2 flavor3 1 flavor4 1 flavor6 1 flavor8 6 flavor11 1 flavor13 1
+4 flavor1 1 flavor2 1 flavor4 1 flavor5 2 flavor8 4 flavor11 4
+5 flavor1 2 flavor2 3 flavor5 1 flavor7 1 flavor8 6 flavor9 1 flavor11 1 flavor12 1
+6 flavor8 2 flavor13 3
+7 flavor2 7 flavor4 1 flavor5 2 flavor8 5 flavor9 1 flavor11 1 flavor12 1
+8 flavor8 1 flavor9 1 flavor12 2 flavor13 2
+9 flavor1 2 flavor2 2 flavor4 1 flavor5 1 flavor7 1 flavor8 4 flavor9 2 flavor11 1 flavor12 1
+10 flavor2 2 flavor5 1 flavor6 2 flavor8 3 flavor9 2 flavor11 3
+11 flavor4 3 flavor6 1 flavor8 4 flavor13 1 flavor15 1
+12 flavor2 4 flavor5 2 flavor8 3 flavor9 1 flavor13 1 flavor14 1
+13 flavor1 2 flavor2 3 flavor4 2 flavor5 5 flavor8 2 flavor9 1 flavor12 1 flavor14 1
+14 flavor1 3 flavor2 1 flavor5 4 flavor8 4 flavor9 1 flavor12 1 flavor13 1
+15 flavor1 3 flavor2 2 flavor3 1 flavor5 1 flavor8 4 flavor11 1 flavor12 2
+16 flavor3 1 flavor5 7 flavor6 1 flavor8 5 flavor9 2 flavor11 1
+17 flavor2 1 flavor6 1 flavor8 2 flavor9 1 flavor12 1

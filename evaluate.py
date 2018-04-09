@@ -29,8 +29,9 @@ def time2stamp(t):
 def read_out(out_file):
     fin = open(out_file)
     lines = fin.readlines()
+    flag = 1
     for i in range(len(lines)):
-        if lines[i] == '\n':
+        if lines[i] == '\r\n' or lines[i] == '\n':
             flag = i
             break
     pred = {}

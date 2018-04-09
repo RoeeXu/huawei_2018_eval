@@ -19,7 +19,7 @@ do
     dir=$eles
     if [ -d $dir ]
     then
-        python ecs.py $dir/train.txt $dir/input.txt $dir/output.txt
+        python ecs.py $dir/train.txt $dir/input.txt $dir/output.txt > ecs_log
         python evaluate.py $dir
     fi
 done
