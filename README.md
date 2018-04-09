@@ -19,3 +19,9 @@ GET YOUR SCORE!
 
 - 增加了最后的输出信息
 - 多进程调用程序，提高速度
+
+经过使用
+
+	time bash one.sh
+
+测试，一次test用时由3min降为1min
