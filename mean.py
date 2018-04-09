@@ -24,6 +24,7 @@ for line in sys.stdin:
     n = float(line.strip().split()[1])
     N += n
     i += 1
+    print line
 
 print 'Score\t' + str(N / i)
 
