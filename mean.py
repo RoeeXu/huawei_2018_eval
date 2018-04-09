@@ -18,15 +18,19 @@
 import sys
 
 N = 0.0
+M = 0.0
 i = 0
 
 for line in sys.stdin:
     n = float(line.strip().split()[1])
+    m = float(line.strip().split()[2])
     N += n
+    M += m
     i += 1
     print line
 
-print 'Score\t' + str(N / i)
+print 'Predict Score\t' + str(N / i) + '\tDeploy Score\t' + str(M / i)
+
 
 
 
