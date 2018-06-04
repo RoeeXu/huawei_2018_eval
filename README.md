@@ -1,3 +1,9 @@
+### 是什么
+
+是2018华为软件精英挑战赛，虚拟机销量预测的本地打分程序，由原作者folk而来并做了大量改进。
+
+### 使用方法
+
 Copy your `predictor.py` to this dir.
 Then run:
 
