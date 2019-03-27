@@ -16,12 +16,15 @@
 
 for eles in `ls`
 do
+{
     dir=$eles
     if [ -d $dir ]
     then
-        python ecs.py $dir/train.txt $dir/input.txt $dir/output.txt
+        python ecs.py $dir/train.txt $dir/input.txt $dir/output.txt > $dir/ecs_log
         python evaluate.py $dir
     fi
+} &
 done
+wait
 
 # vim: set expandtab ts=4 sw=4 sts=4 tw=100
